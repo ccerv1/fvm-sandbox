@@ -2,5 +2,4 @@
 .env
 __pycache__/
 .DS_Store
-*.csv
 .ipynb_checkpoints/
