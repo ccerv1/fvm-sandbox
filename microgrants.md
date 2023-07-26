@@ -1,4 +1,4 @@
-| Team | Project | Link | Application Issue Link | 
+|Team|Project|Link|Application Issue Link| 
 | :--- | :------ | :--- | :--------: | 
 | @vigneshc  | Oppanda offline proposals | [Github](https://github.com/vigneshc/Oppanda)| [#425](https://github.com/filecoin-project/devgrants/issues/425) |
 | @BaranBayden  | Laravel2IPFS | [Github](https://github.com/BaranBayden/Laravel2IPFS)| [#428](https://github.com/filecoin-project/devgrants/issues/428) |
